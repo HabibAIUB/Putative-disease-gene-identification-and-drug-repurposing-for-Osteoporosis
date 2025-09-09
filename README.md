@@ -1,0 +1,1 @@
+# Putative-disease-gene-identification-and-drug-repurposing-for-Osteoporosis
